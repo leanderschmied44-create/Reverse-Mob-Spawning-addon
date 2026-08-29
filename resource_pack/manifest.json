@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Reverse Mob Spawning RP",
+    "description": "Resource Pack with high quality glowing and inverted textures for Reverse Mob Spawning.",
+    "uuid": "f30a24a8-2d63-4f06-9aa3-9dd2807d4fe9",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "37863416-f23a-4b07-adc1-be51d92e9f9c",
+      "version": [1, 0, 0]
+    }
+  ]
+}
